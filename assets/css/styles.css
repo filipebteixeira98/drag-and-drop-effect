@@ -95,3 +95,10 @@ img {
 .drop__social:hover {
   color: var(--first-color);
 }
+.sortable-chosen {
+  box-shadow: 8px 8px 32px #e1e1e1;
+}
+
+.sortable-drag {
+  opacity: 0;
+}
